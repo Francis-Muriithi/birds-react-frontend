@@ -10,7 +10,7 @@ function Create(){
 
     function postData(){
         axios.post ('https://6389cd9e4eccb986e89ae6f9.mockapi.io/Birds', {
-        name, 
+        name,
         image,
         description
         })
